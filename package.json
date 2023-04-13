@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "souyfiyane Ait Moulay",
+    "email": "soufiyane.aitmoulay@gmail.com"  
+  },
+  "name": "tsuki",
+  "displayName": "Tsuki",
+  "description": "Monnlight-Theme based on bootswatch darkly theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tsuki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tsuki-color-theme.json"
+      }
+    ]
+  }
+}

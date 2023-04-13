@@ -3,6 +3,10 @@
     "name": "souyfiyane Ait Moulay",
     "email": "soufiyane.aitmoulay@gmail.com"  
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soufiiyane/Tsuki-Extension"
+  },
   "name": "tsuki",
   "displayName": "Tsuki",
   "description": "Monnlight-Theme based on bootswatch darkly theme",

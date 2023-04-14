@@ -9,7 +9,7 @@
   },
   "name": "tsuki",
   "displayName": "Tsuki",
-  "description": "Monnlight-Theme based on bootswatch darkly theme",
+  "description": "Tsuki-Theme based on bootswatch",
   "version": "0.0.1",
   "engines": {
     "vscode": "*"
@@ -20,9 +20,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Tsuki",
+        "label": "darkly",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tsuki-color-theme.json"
+        "path": "./themes/Darkly-color-theme.json"
+      },
+      {
+        "label": "Cyborg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyborg-color-theme.json"
       }
     ]
   },

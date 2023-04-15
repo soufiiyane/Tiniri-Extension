@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "darkly",
+        "label": "Tiniri dark theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Tiniri-color-theme.json"
       }

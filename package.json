@@ -10,7 +10,7 @@
   "name": "tiniri",
   "displayName": "Tiniri",
   "description": "Tiniri is a visually striking dark theme inspired by the captivating Berber culture of Morocco",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "*"
   },

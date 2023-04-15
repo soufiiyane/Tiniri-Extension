@@ -7,9 +7,9 @@
     "type": "git",
     "url": "https://github.com/soufiiyane/Tsuki-Extension"
   },
-  "name": "tsuki",
-  "displayName": "Tsuki",
-  "description": "Tsuki-Theme based on bootswatch",
+  "name": "tiniri",
+  "displayName": "Tiniri",
+  "description": "Tiniri is a visually striking dark theme inspired by the captivating Berber culture of Morocco. Its deep, mysterious color palette and subtle accents create an immersive coding experience that's perfect for nocturnal coding sessions. With its unique blend of darkness and elegance, it brings a touch of cultural richness to your coding environment, setting the stage for inspired coding adventures under the Berber night sky. Let the Tiniri theme envelop you in its enigmatic allure and elevate your coding workflow to new levels of creativity and productivity",
   "version": "0.0.1",
   "engines": {
     "vscode": "*"
@@ -22,12 +22,7 @@
       {
         "label": "darkly",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darkly-color-theme.json"
-      },
-      {
-        "label": "Cyborg",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Cyborg-color-theme.json"
+        "path": "./themes/Tiniri-color-theme.json"
       }
     ]
   },

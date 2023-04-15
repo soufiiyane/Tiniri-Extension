@@ -4,5 +4,5 @@ Tiniri is a visually striking dark theme inspired by the captivating Berber cult
 
 ## Screenshots
 ![Screenshot 01](images/screenshots/sc1.png "Screenshot #01")
-![Screenshot 02](images/screenshots/sc1.png "Screenshot #02")
+![Screenshot 02](images/screenshots/sc2.png "Screenshot #02")
 

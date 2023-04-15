@@ -8,9 +8,10 @@
     "url": "https://github.com/soufiiyane/Tiniri-Extension"
   },
   "name": "tiniri",
-  "displayName": "Tiniri",
+  "displayName": "Tiniri Theme",
+  "icon": "./images/TiniriIcon.png",
   "description": "Tiniri is a visually striking dark theme inspired by the captivating Berber culture of Morocco",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "*"
   },

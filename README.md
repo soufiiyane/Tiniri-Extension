@@ -6,3 +6,8 @@ Tiniri is a visually striking dark theme inspired by the captivating Berber cult
 ![Screenshot 01](images/screenshots/sc1.png "Screenshot #01")
 ![Screenshot 02](images/screenshots/sc2.png "Screenshot #02")
 
+## Installation
+
+```
+ext install soufiyane.tiniri
+```
